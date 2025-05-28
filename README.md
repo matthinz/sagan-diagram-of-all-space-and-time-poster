@@ -19,5 +19,12 @@ Here is what it looks like:
 </tr>
 </table>
 
+## What I did
+
+1. Cleared background so the drawing is on pure white
+2. Removed cut off text from the top of the drawing (which I _think_ should say "OFF LIMITS")
+3. Filled in a couple of cut off red squiggles at the top of the drawing.
+4. Removed the note that reads "This is the largest size for a <u>color</u> copy obtainable from the original w/o cutting it up"
+5. Scaled it up with Pixelmator Pro's "Super Resolution" so that it could be printed on a 28"x22" poster at 300 DPI
 
 [loc]: https://www.loc.gov/resource/mss85590.084/
